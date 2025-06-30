@@ -1,6 +1,6 @@
 const quizData = [
   {
-    img: "https://cdn.glitch.global/188f4d7e-1fbc-4954-96d4-03b4e1a857ab/AI-bot-scan_3.gif?v=1746607407428",
+    img: "img/q1.gif",
     context:
       "ASTRA-2525 scans your natural curiosities through a series of choices...",
     questionNo: "1/15",
@@ -16,7 +16,7 @@ const quizData = [
     },
   },
   {
-    img: "https://cdn.glitch.global/f56ef2e7-af87-4336-a715-6b703eca032a/doors-v2.gif?v=1748336986889",
+    img: "img/q2.gif",
     context: "",
     questionNo: "2/15",
     question:
@@ -28,7 +28,7 @@ const quizData = [
     },
   },
   {
-    img: "https://cdn.glitch.global/f56ef2e7-af87-4336-a715-6b703eca032a/girls-RS-v2.gif?v=1748335489738",
+    img: "img/q3.gif",
     context: "",
     questionNo: "3/15",
     question:
@@ -42,7 +42,7 @@ const quizData = [
     },
   },
   {
-    img: "https://cdn.glitch.global/f56ef2e7-af87-4336-a715-6b703eca032a/AI-bot-msg-v2.gif?v=1748334622121",
+    img: "img/q4.gif",
     context: "",
     questionNo: "4/15",
     question:
@@ -58,7 +58,7 @@ const quizData = [
   },
 
   {
-    img: "https://cdn.glitch.global/188f4d7e-1fbc-4954-96d4-03b4e1a857ab/Q5-2.png?v=1746602586831",
+    img: "img/q5.png",
     context:
       "ASTRA-2525: 'Now that we know what interests you, let's see how you'd apply these interests to help future Singapore...",
     questionNo: "5/15",
@@ -74,7 +74,7 @@ const quizData = [
     },
   },
   {
-    img: "https://cdn.glitch.global/188f4d7e-1fbc-4954-96d4-03b4e1a857ab/Q6-2.png?v=1746603175777",
+    img: "img/q6.png",
     context: "",
     questionNo: "6/15",
     question:
@@ -87,7 +87,7 @@ const quizData = [
     },
   },
   {
-    img: "https://cdn.glitch.global/188f4d7e-1fbc-4954-96d4-03b4e1a857ab/Q7-v2.png?v=1746609700013",
+    img: "img/q7.png",
     context: "",
     questionNo: "7/15",
     question:
@@ -99,7 +99,7 @@ const quizData = [
     },
   },
   {
-    img: "https://cdn.glitch.global/188f4d7e-1fbc-4954-96d4-03b4e1a857ab/Q8-v2.png?v=1746609910843",
+    img: "img/q8.png",
     context: "",
     questionNo: "8/15",
     question:
@@ -112,7 +112,7 @@ const quizData = [
   },
 
 {
-    img: "https://cdn.glitch.global/188f4d7e-1fbc-4954-96d4-03b4e1a857ab/floating-things.gif?v=1746588898807",
+    img: "img/q9.gif",
     context: "ASTRA-2525: 'Your responses show promise. Let's see how you handle bigger challenges!'",
     questionNo: "9/15",
     question: "The city's gravity controls are acting up, making things float when they shouldn't! What's your role in fixing this?",
@@ -123,7 +123,7 @@ const quizData = [
     }
   },
   {
-    img: "https://cdn.glitch.global/188f4d7e-1fbc-4954-96d4-03b4e1a857ab/Q10-2.png?v=1746602226495",
+    img: "img/q10.png",
     context: "",
     questionNo: "10/15",
     question: "Singapore is expanding its first space colony. How do you contribute?",
@@ -134,7 +134,7 @@ const quizData = [
     }
   },
   {
-    img: "https://cdn.glitch.global/188f4d7e-1fbc-4954-96d4-03b4e1a857ab/Q11.png?v=1746687517813",
+    img: "img/q11.png",
     context: "",
     questionNo: "11/15",
     question: "The National Heritage Board needs help preserving culture from the 2020s. What's your method?",
@@ -145,7 +145,7 @@ const quizData = [
     }
   },
   {
-    img: "https://cdn.glitch.global/188f4d7e-1fbc-4954-96d4-03b4e1a857ab/leader-sg.gif?v=1746591572438",
+    img: "img/q12.gif",
     context: "ASTRA-2525: 'Your choices have revealed your strengths. Now, let's see where you could make the biggest impact!'",
     questionNo: "12/15",
     question: "It's 2040, and you're leading an exciting project in Singapore. What are you working on?",
@@ -156,7 +156,7 @@ const quizData = [
     }
   },
   {
-    img: "https://cdn.glitch.global/188f4d7e-1fbc-4954-96d4-03b4e1a857ab/project-citizen.gif?v=1746773423382",
+    img: "img/q13.gif",
     context: "",
     questionNo: "13/15",
     question: "You get to start one project that will impact Singapore for generations. What is it?",
@@ -167,7 +167,7 @@ Investigative: "Urban food forests that feed communities while preserving biodiv
     }
   },
   {
-    img: "https://cdn.glitch.global/188f4d7e-1fbc-4954-96d4-03b4e1a857ab/masterclass.gif?v=1746769556391",
+    img: "img/q14.gif",
     context: "",
     questionNo: "14/15",
     question: "You're asked to teach the next generation of RGS students. What's your masterclass about?",
@@ -178,7 +178,7 @@ Investigative: "Urban food forests that feed communities while preserving biodiv
     }
   },
   {
-    img: "https://cdn.glitch.global/188f4d7e-1fbc-4954-96d4-03b4e1a857ab/final-qns.gif?v=1746773954354",
+    img: "img/q15.gif",
     context: "",
     questionNo: "15/15",
     question: "For your final task, you must demonstrate how you would combine your interests and abilities to solve one of Singapore's biggest challenges in 2525...",
