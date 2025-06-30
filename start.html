@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="icon"
+      href="https://cdn.glitch.global/188f4d7e-1fbc-4954-96d4-03b4e1a857ab/AI-favicon.png?v=1747186501509"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Tomorrow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <title>RGS RS Quiz</title>
+
+    <link rel="stylesheet" href="/style.css" />
+    <style>
+      @media screen and (max-width: 600px) {
+        #column1,
+        #column2 {
+          width: 100%;
+        },
+        #resultsChart,  {display: block},
+
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="instructions">
+      <div id="column1">
+        <image id="question-gif"></image>
+        <h2 id="persona-title"></h2>
+        <p id="persona-description"></p>
+      </div>
+      <div id="column2">
+        <h2 id="questionNo">Q1</h2>
+        <p id="context"></p>
+        <p id="question"></p>
+        <br />
+        <div class="options-section">
+          <button id="option1" class="optionBtn"></button>
+          <button id="option2" class="optionBtn"></button>
+          <button id="option3" class="optionBtn"></button>
+        </div>
+        <p id="top-prog-reco"></p>
+        <p id="more-prog-reco"></p>
+        
+        <div id="btns">
+          <button id="padlet-link" onclick="window.open('https://rafflesgirlsschool.padlet.org/rgssd1/remake-of-2025-td-y2-research-studies-programmes-cblwnpdn54ksicve','_blank')">
+            Discover more RS Programmes
+          </button>
+          <button
+            id="redoBtn"
+            onclick="window.location.href='/index.html'"
+          >
+            Redo Quiz
+          </button>
+          <!--         <button id="screenshot-button">Save Results</button> -->
+        </div>
+      </div>
+      
+      <div id="loading-screen" style="display: none;">
+    <div class="loading-content">
+        <div class="spinner"></div>
+        <p>Analysing your responses...</p>
+    </div>
+</div>
+    </div>
+    <script src="qns.js"></script>
+    <script src="personas.js"></script>
+    <script src="prog-recco.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
