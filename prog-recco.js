@@ -7,7 +7,7 @@ const progRecco = {
       },
       {
         name: "Biology/Chemistry RS",
-        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Finet.rgs.edu.sg%2Fstudents%2Frs%2FDocument%2F2021%2520Y1%2520Science%2520RS%2520Publicity.mp4",
+        url: "https://inet.rgs.edu.sg/students/rs/Document/2021%20Y1%20Science%20RS%20Publicity.mp4",
       },
       {
         name: "Global Scholars' Programme",
@@ -31,7 +31,7 @@ const progRecco = {
       },
       {
         name: "Biology/Chemistry RS",
-        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Finet.rgs.edu.sg%2Fstudents%2Frs%2FDocument%2F2021%2520Y1%2520Science%2520RS%2520Publicity.mp4",
+        url: "https://inet.rgs.edu.sg/students/rs/Document/2021%20Y1%20Science%20RS%20Publicity.mp4",
       },
     ],
   },
