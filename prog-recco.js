@@ -6,7 +6,7 @@ const progRecco = {
         url: "https://inet.rgs.edu.sg/students/rs/Document/2025_TD_Y1_MathTD%20Presentation_Final.pdf",
       },
       {
-        name: "Biology/Chemistry RS",
+        name: "STEM RS",
         url: "https://inet.rgs.edu.sg/students/rs/Document/2021%20Y1%20Science%20RS%20Publicity.mp4",
       },
       {
@@ -30,7 +30,7 @@ const progRecco = {
         url: "https://inet.rgs.edu.sg/students/rs/Document/2025_TD_Y1_MathTD%20Presentation_Final.pdf",
       },
       {
-        name: "Biology/Chemistry RS",
+        name: "STEM RS",
         url: "https://inet.rgs.edu.sg/students/rs/Document/2021%20Y1%20Science%20RS%20Publicity.mp4",
       },
     ],
