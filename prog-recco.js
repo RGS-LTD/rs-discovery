@@ -11,7 +11,7 @@ const progRecco = {
       },
       {
         name: "Global Scholars' Programme",
-        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame.aspx?sourcedoc={d6efe38d-4b38-405f-a639-7e93eb7d5fcc}&action=default",
+        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame2.aspx?sourcedoc=%7bf8a52b1e-7238-45aa-8017-c86cf0761adc%7d&action=default",
       },
     ],
   },
@@ -19,11 +19,11 @@ const progRecco = {
     prog: [
       {
         name: "Junior Inventors' Cluster",
-        url: "https://inet.rgs.edu.sg/students/rs/Document/2021_Y1_JIC%20Application%20Presentation.mp4",
+        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame.aspx?sourcedoc=%7B40a83fc7-d83d-42a9-ba7b-b83db0441a29%7D&action=default",
       },
       {
         name: "Community Problem Solving",
-        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame.aspx?sourcedoc={991b1352-8be8-4630-a4fc-3467f80fd226}&action=default",
+        url: "https://rafflesgirlsschool.padlet.org/rgssc1/2026-td-y2-research-studies-programmes-xc2sljt5fhv14xjb/wish/E851Q0EpD9KAZVAb",
       },
       {
         name: "Mathematics RS",
@@ -43,11 +43,11 @@ const progRecco = {
       },
       {
         name: "Scenario Writing",
-        url: "https://docs.google.com/presentation/d/1ADF4z1gM28z12RoAaSYwOBgiNIqtaYQAeTeuBHgca3w/edit?slide=id.p1",
+        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame.aspx?sourcedoc=%7bbab757d3-5ed1-4896-96b7-ec7113abdcf4%7d&action=default",
       },
       {
         name: "Film Cluster",
-        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame.aspx?sourcedoc={d6efe38d-4b38-405f-a639-7e93eb7d5fcc}&action=default",
+        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame2.aspx?sourcedoc=%7be2c2a00f-66e2-4b24-aedc-72a7ff4f15c3%7d&action=default",
       },
     ],
   },
@@ -55,7 +55,7 @@ const progRecco = {
     prog: [
       {
         name: "Global Scholars' Programme",
-        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame.aspx?sourcedoc={d6efe38d-4b38-405f-a639-7e93eb7d5fcc}&action=default",
+        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame2.aspx?sourcedoc=%7bf8a52b1e-7238-45aa-8017-c86cf0761adc%7d&action=default",
       },
       {
         name: "Social Science RS",
@@ -63,7 +63,7 @@ const progRecco = {
       },
       {
         name: "Community Problem Solving",
-        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame.aspx?sourcedoc={991b1352-8be8-4630-a4fc-3467f80fd226}&action=default",
+        url: "https://rafflesgirlsschool.padlet.org/rgssc1/2026-td-y2-research-studies-programmes-xc2sljt5fhv14xjb/wish/E851Q0EpD9KAZVAb",
       },
       {
         name: "History RS",
@@ -75,23 +75,23 @@ const progRecco = {
     prog: [
       {
         name: "Fashion Cluster",
-        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame.aspx?sourcedoc={b9cafd33-1dab-4cfd-9e13-72007dded580}&action=default",
+        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame.aspx?sourcedoc=%7B5B048515-84BA-409C-8CD3-90AD128F82B9%7D&file=2025_RS_Y1_Fashion%20Cluster_Presentation.pptx&action=default&IsList=1&ListId=%7B84CC9B9F-DAA4-49C6-A769-BA27DA34E6A9%7D&ListItemId=704",
       },
       {
         name: "Film Cluster",
-        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame.aspx?sourcedoc={e2c2a00f-66e2-4b24-aedc-72a7ff4f15c3}&action=default",
+        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame2.aspx?sourcedoc=%7be2c2a00f-66e2-4b24-aedc-72a7ff4f15c3%7d&action=default",
       },
       {
         name: "Odyssey of the Mind",
-        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame.aspx?sourcedoc={a530f8a3-cf5c-4d3a-856e-9df4727f7948}&action=default",
+        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame2.aspx?sourcedoc=%7ba530f8a3-cf5c-4d3a-856e-9df4727f7948%7d&action=default",
       },
       {
         name: "Community Problem Solving",
-        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame.aspx?sourcedoc={991b1352-8be8-4630-a4fc-3467f80fd226}&action=default",
+        url: "https://rafflesgirlsschool.padlet.org/rgssc1/2026-td-y2-research-studies-programmes-xc2sljt5fhv14xjb/wish/E851Q0EpD9KAZVAb",
       },
       {
         name: "Junior Inventors' Cluster",
-        url: "https://inet.rgs.edu.sg/students/rs/Document/2021_Y1_JIC%20Application%20Presentation.mp4",
+        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame.aspx?sourcedoc=%7B40a83fc7-d83d-42a9-ba7b-b83db0441a29%7D&action=default",
       },
     ],
   },
