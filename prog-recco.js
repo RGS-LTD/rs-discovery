@@ -73,10 +73,10 @@ const progRecco = {
   },
   Creative: {
     prog: [
-      {
-        name: "Fashion Cluster",
-        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame.aspx?sourcedoc=%7B5B048515-84BA-409C-8CD3-90AD128F82B9%7D&file=2025_RS_Y1_Fashion%20Cluster_Presentation.pptx&action=default&IsList=1&ListId=%7B84CC9B9F-DAA4-49C6-A769-BA27DA34E6A9%7D&ListItemId=704",
-      },
+      // {
+      //   name: "Fashion Cluster",
+      //   url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame.aspx?sourcedoc=%7B5B048515-84BA-409C-8CD3-90AD128F82B9%7D&file=2025_RS_Y1_Fashion%20Cluster_Presentation.pptx&action=default&IsList=1&ListId=%7B84CC9B9F-DAA4-49C6-A769-BA27DA34E6A9%7D&ListItemId=704",
+      // },
       {
         name: "Film Cluster",
         url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame2.aspx?sourcedoc=%7be2c2a00f-66e2-4b24-aedc-72a7ff4f15c3%7d&action=default",
