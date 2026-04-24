@@ -9,10 +9,10 @@ const progRecco = {
         name: "STEM RS",
         url: "https://inet.rgs.edu.sg/students/rs/Document/2021%20Y1%20Science%20RS%20Publicity.mp4",
       },
-      {
-        name: "Global Scholars' Programme",
-        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame2.aspx?sourcedoc=%7bf8a52b1e-7238-45aa-8017-c86cf0761adc%7d&action=default",
-      },
+      // {
+      //   name: "Global Scholars' Programme",
+      //   url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame2.aspx?sourcedoc=%7bf8a52b1e-7238-45aa-8017-c86cf0761adc%7d&action=default",
+      // },
     ],
   },
   Investigative: {
@@ -53,10 +53,10 @@ const progRecco = {
   },
   "Perspective-Taking": {
     prog: [
-      {
-        name: "Global Scholars' Programme",
-        url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame2.aspx?sourcedoc=%7bf8a52b1e-7238-45aa-8017-c86cf0761adc%7d&action=default",
-      },
+      // {
+      //   name: "Global Scholars' Programme",
+      //   url: "https://inet.rgs.edu.sg/students/rs/_layouts/15/WopiFrame2.aspx?sourcedoc=%7bf8a52b1e-7238-45aa-8017-c86cf0761adc%7d&action=default",
+      // },
       {
         name: "Social Science RS",
         url: "https://inet.rgs.edu.sg/students/rs/Document/2025_Humanities_Y1_TD_Presentation.pdf",
